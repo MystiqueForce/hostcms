@@ -33,7 +33,7 @@ function Login({setAuth}) {
 
         console.log(LoginData);
 
-        fetch("https://fronter.onrender.com/auth/login", {
+        fetch("https://cmsfronttt.onrender.com/auth/login", {
 
             method: 'POST',
 
